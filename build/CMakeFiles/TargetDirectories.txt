@@ -1,0 +1,3 @@
+/home/serj/Desktop/Programs/C++/Battleship/build/CMakeFiles/Battleship.dir
+/home/serj/Desktop/Programs/C++/Battleship/build/CMakeFiles/edit_cache.dir
+/home/serj/Desktop/Programs/C++/Battleship/build/CMakeFiles/rebuild_cache.dir
